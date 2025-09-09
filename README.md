@@ -18,9 +18,9 @@
 
 | 🎼: Song Title | 🔗: Link |
 |--------------|---------|
-| Black Skirt – *Everything* | [Listen here](https://www.youtube.com/watch?v=7WZrBC0MzIY) |
-| Opozit – *Нээх тийм гоё байдагдаа тэ* | [Listen here](https://www.youtube.com/watch?v=8grMOBxTF7M) |
-| D4vd – *Here With Me* | [Listen here](https://www.youtube.com/watch?v=Jv1ZN8c4_Gs) |
+| Black Skirt – *Everything* | [Listen here](https://www.youtube.com/watch?v=K4giYflGxAY&list=RDK4giYflGxAY&start_radio=1) |
+| Opozit – *Нээх тийм гоё байдагдаа тэ* | [Listen here](https://www.youtube.com/watch?v=gicOS4qL-Kk&list=RDgicOS4qL-Kk&start_radio=1) |
+| D4vd – *Here With Me* | [Listen here](https://www.youtube.com/watch?v=Ip6cw8gfHHI&list=RDIp6cw8gfHHI&start_radio=1) |
 
 ---
 
